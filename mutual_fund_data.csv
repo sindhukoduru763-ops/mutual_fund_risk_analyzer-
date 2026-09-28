@@ -1,0 +1,6 @@
+Fund,Category,Return_1Y,Return_3Y,Volatility,Expense_Ratio,Risk_Level
+Sample Equity Fund,Equity,14.5,12.3,18.5,0.75,Very High Risk
+Sample Debt Fund,Debt,7.2,6.4,5.2,0.4,Low Risk
+Sample Hybrid Fund,Hybrid,10.1,9.1,10.4,0.6,Moderate Risk
+Sample Index Fund,Equity,12.8,11.2,16.8,0.2,High Risk
+Sample Balanced Fund,Hybrid,9.4,8.6,9.1,0.55,Moderate Risk
